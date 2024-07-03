@@ -1,7 +1,4 @@
 # Network-Configuration-Reset
-A batch script for resetting network configurations and resolving common network issues.
-
-# Network Configuration Reset Script
 
 ## Description
 This project provides a batch script for resetting network configurations and resolving common network issues on Windows operating systems. The script performs actions such as resetting TCP/IP stack, resetting Winsock, releasing and renewing IP addresses, clearing DNS cache, and setting DNS server to Google DNS.
@@ -24,12 +21,10 @@ This project provides a batch script for resetting network configurations and re
 ## Prerequisites
 - Windows operating system
 - Administrator privileges to run the script
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- 
 ## Author
 Rachit Sharma
 
-''sh
+### 1. Clone the Repository
+```sh
 git clone https://github.com/yourusername/repo-name.git
